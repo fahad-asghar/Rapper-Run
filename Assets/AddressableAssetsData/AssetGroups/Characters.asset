@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Characters
+  m_EditorClassIdentifier: 
+  m_GroupName: Characters
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0ee8914add8bf184eb2669a5f9b6f538
+  m_SerializeEntries:
+  - m_GUID: 1c8b4e674120cad47a3fc249308e5af3
+    m_Address: Assets/Prefabs/UI/AddMissionButton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2ae64d0eaec8d6f4f9436fce6117048d
+    m_Address: Trash Cat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - characters
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2bfa18892388236498842bbfe7a3ff83
+    m_Address: Assets/Prefabs/UI/Header.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2d4807022e73aa34ab8f01892dbdfe1d
+    m_Address: Assets/Bundles/Themes/Default/Industrial/IndustrialWarehouse01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 473ffa016efe3724cad08daa78e3d12a
+    m_Address: Rubbish Raccoon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - characters
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 71514012df4dcd146957cb145cec8287
+    m_Address: Assets/Prefabs/UI/MissionEntry.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8407dff17be884148914d7ac416ce1ec
+    m_Address: Assets/Low poly city day night alley pack/Prefab/Night/ALLEY.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 94cb557246c11d14388842cc08be79a8
+    m_Address: Assets/Prefabs/UI/PowerupIcon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a53fe2875371488408daf0df7d69a981
+    m_Address: Assets/Prefabs/UI/MissionPopup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: abafe3707f9235b4ab7cdfd1333295c3
+    m_Address: Assets/Prefabs/UI/ItemEntry.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ac361d43768a861498da8046b83b94f5
+    m_Address: Assets/Prefabs/UI/Score.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b718c14c1e836cc4a8ca91d61382c504
+    m_Address: Assets/Bundles/Themes/Default/Obstacles/ObstacleDog.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ff4d1f73fb241af46bc3738a1d734c8a
+    m_Address: Assets/Low poly city day night alley pack/Prefab/Day/ALLEY(Day).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 735e874f947d0e143a6b4e83f8a7283a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e804a7effdc04f24b992534d7b3594d8, type: 2}
+    - {fileID: 11400000, guid: b2fc035de78f1ea43abe0261a378f9fc, type: 2}
